@@ -1,0 +1,6 @@
+(executable
+ (name shaml)
+ (public_name shaml)
+ (package shaml)
+ (modules shaml)
+ (libraries unix core))
