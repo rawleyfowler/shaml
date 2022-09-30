@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/shaml/META"
-  "_build/install/default/lib/shaml/dune-package"
-  "_build/install/default/lib/shaml/opam"
-]
-bin: [
-  "_build/install/default/bin/shaml"
-]
